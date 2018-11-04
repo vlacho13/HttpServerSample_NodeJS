@@ -1,0 +1,23 @@
+{
+  "name": "samplehttpapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "stringbuilder": "^0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlacho13/HttpServerSample_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlacho13/HttpServerSample_NodeJS/issues"
+  },
+  "homepage": "https://github.com/vlacho13/HttpServerSample_NodeJS#readme"
+}
